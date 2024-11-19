@@ -1,4 +1,4 @@
-# Paper-DISTRIBUTED REAL TIME SOIL SATURATION ASSESSMENT IN LEVEES USING A NETWORK OF WIRELESS SENSOR PACKAGES WITH CONDUCTIVITY PROBES
+# Code for paper "Distributed Real-time Soil Saturation Assessment in Levees Using a Network of Wireless Sensor"
 This work is published and presented in IMECHE 2024. The full title of this paper is "DISTRIBUTED REAL-TIME SOIL SATURATION ASSESSMENT IN LEVEES USING A NETWORK OF WIRELESS SENSOR PACKAGES WITH CONDUCTIVITY PROBES". This folder contains code, data, and plots for 1D kriging for compacted soil  for paper IMECHE 2024 related to Data-driven fragility framework: Developed a framework for risk assessment of levee breaches Project (funded by the NSF grant number 2152896)
 
 * **data**: This folder has raw data named "combined_data_original.csv". Here are also post-processed data for analysis:
